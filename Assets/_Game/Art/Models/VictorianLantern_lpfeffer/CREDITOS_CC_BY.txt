@@ -1,0 +1,11 @@
+Victorian Lantern — lpfeffer
+Fonte: https://sketchfab.com/3d-models/victorian-lantern-7ed910cbe21d4d33a790b8fc9b2bebe8
+Autor: https://sketchfab.com/lpfeffer
+Licenca: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Modelo e texturas fornecidos pelo usuario no arquivo victorian-lantern.zip.
+O modelo DAE e os mapas originais estao incluidos sem alteracao.
+Adaptacoes do lote V29: materiais URP; escala e orientacao normalizadas; quatro posicionamentos na fachada; vela, chama, iluminacao e oscilacao acrescentadas como objetos independentes. Mapa de metallic/smoothness derivado durante a instalacao a partir dos mapas originais.
+
+Ao distribuir o jogo, incluir o nome do modelo, autor, fonte, licenca e indicacao dessas adaptacoes nos creditos. Manter este aviso junto ao asset.
